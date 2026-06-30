@@ -104,7 +104,7 @@ HealthStatusPrediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/HealthStatusPrediction.git
+https://github.com/Sujan-Adhikari875/Health-Status-Prediction.git
 ```
 
 Move into the project folder
@@ -116,18 +116,18 @@ cd HealthStatusPrediction
 Install the required libraries
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib Scikit-learn seaborn
 ```
 
 Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+jupyter notebook or jupyter lab
 ```
 
 ---
 
-## 📷 Sample Output
+
 
 The notebook includes:
 
@@ -139,7 +139,7 @@ The notebook includes:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning using GridSearchCV
 - Cross-validation
@@ -149,7 +149,7 @@ The notebook includes:
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -162,12 +162,12 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Rajeev**
+**Adhikari Sujan**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Sujan-Adhikari875
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+
